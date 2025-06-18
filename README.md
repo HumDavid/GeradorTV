@@ -10,6 +10,7 @@ Você pode usar **quebras de linha, indentação e espaços à vontade**.
 
 ### Exemplo válido:
 
+```
 circ_teste =
     {'entradas': ['a0', 'b0', 'a1', 'b1'],
     'saidas': ['s0', 's1', 'c'],
@@ -21,6 +22,7 @@ circ_teste =
     'g5': ['and', 't2', 't0', 't1'],
     'g6': ['and', 't1', 'a0', 'b0'],
     'g7': ['and', 't3', 'a1', 'b1']}
+```
 
 ## ✅ Dicas:
 ->  O nome antes do `=` será usado como nome do circuito no arquivo de saída.
