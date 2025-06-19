@@ -2,7 +2,7 @@
 
 Este programa lê a descrição de um circuito digital a partir de um arquivo `Circ.txt` e gera sua tabela verdade no arquivo `Saida.txt`.
 
-## 🗂 Formato do `Circ.txt`
+## Formato do `Circ.txt`
 
 O arquivo deve conter **uma variável com nome e valor separados por "="**, onde o valor é um dicionário com a descrição do circuito.
 
@@ -24,7 +24,7 @@ circ_teste =
     'g7': ['and', 't3', 'a1', 'b1']}
 ```
 
-## ✅ Dicas:
+## Observações:
 ->  O nome antes do `=` será usado como nome do circuito no arquivo de saída.
 ->  Pode usar quantas quebras de linha e indentação quiser.
 ->  Use aspas simples `'` nos nomes de variáveis e portas.
