@@ -25,6 +25,6 @@ circ_teste =
 ```
 
 ## Observações:
-->  O nome antes do `=` será usado como nome do circuito no arquivo de saída.
-->  Pode usar quantas quebras de linha e indentação quiser.
-->  Use aspas simples `'` nos nomes de variáveis e portas.
+- O nome antes do `=` será usado como nome do circuito no arquivo de saída.
+- Pode usar quantas quebras de linha e indentação quiser.
+- Use aspas simples `'` nos nomes de variáveis e portas.
